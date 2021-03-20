@@ -1,0 +1,1 @@
+# Both Binomial and Poisson, though Poisson is easier to model and compute.
