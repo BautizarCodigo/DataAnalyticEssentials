@@ -1,0 +1,1 @@
+There are 17 predictor variables, or features, in this DataFrame.

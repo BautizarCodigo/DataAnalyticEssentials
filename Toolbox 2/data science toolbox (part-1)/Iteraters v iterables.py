@@ -1,0 +1,1 @@
+# flash1 is an iterable and flash2 is an iterator.

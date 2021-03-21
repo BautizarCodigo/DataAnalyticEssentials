@@ -1,0 +1,1 @@
+#There are 27 unique samples, and the maximum mean is 1.

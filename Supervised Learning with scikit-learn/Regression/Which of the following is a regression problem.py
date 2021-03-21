@@ -1,0 +1,1 @@
+# A bike share company using time and weather data to predict the number of bikes being rented at any given hour.

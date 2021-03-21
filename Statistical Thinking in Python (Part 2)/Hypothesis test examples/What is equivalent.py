@@ -1,0 +1,1 @@
+#You measure the number of people who click on an ad on your company's website before and after changing its color.

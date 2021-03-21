@@ -1,0 +1,1 @@
+#All of the above are possible, as long as we investigate where our data comes from, and understand the dynamics affecting it before cleaning it.

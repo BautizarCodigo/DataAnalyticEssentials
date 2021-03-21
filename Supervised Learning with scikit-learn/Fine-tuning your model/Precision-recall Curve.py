@@ -1,0 +1,1 @@
+#Precision and recall take true negatives into consideration.
